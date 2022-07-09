@@ -5,6 +5,7 @@ import create_objects as co
 from validations import get_curr_date
 import sys
 import logging
+#We are implementing the logging mechanism
 
 def main():
     try:
